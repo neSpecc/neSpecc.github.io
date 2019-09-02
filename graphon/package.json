@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "graphon": "https://github.com/neSpecc/graphon.git",
+    "hawk.javascript": "codex-team/hawk.javascript#hawk2.0"
+  }
+}
