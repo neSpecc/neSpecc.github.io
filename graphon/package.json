@@ -1,6 +1,11 @@
 {
+  "scripts": {
+    "build": "webpack"
+  },
   "dependencies": {
-    "graphon": "https://github.com/neSpecc/graphon.git",
-    "hawk.javascript": "codex-team/hawk.javascript#hawk2.0"
+    "graphon": "^1.0.3",
+    "hawk.javascript": "codex-team/hawk.javascript#hawk2.0",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.7"
   }
 }
